@@ -4,8 +4,8 @@ Welcome to my Master's MVA Portfolio durung my year at ENS Paris-Saclay ! Below 
 (https://www.master-mva.com/)
 
 Graph releated course :
-- Advanced learning for text and graph data ALTEGRAD https://www.master-mva.com/cours/cat-advanced-learning-for-text-and-graph-data-altegrad/
-- Geometric data analysis https://www.master-mva.com/cours/geometric-data-analysis/
+- Advanced learning for text and graph data ALTEGRAD (by M. VAZIRGIANNIS) https://www.master-mva.com/cours/cat-advanced-learning-for-text-and-graph-data-altegrad/
+- Geometric data analysis (by J. FEYDY ) https://www.master-mva.com/cours/geometric-data-analysis/
 - Graphs in machine learning https://www.master-mva.com/cours/graphs-in-machine-learning/
 - Kernel methods for machine learning (J. MAIRAL, M. ARBEL) https://www.master-mva.com/cours/kernel-methods-for-machine-learning/
 - Data generation: from Markov to neural networks (by S. MALLAT) https://www.master-mva.com/cours/generation-de-donnees/
